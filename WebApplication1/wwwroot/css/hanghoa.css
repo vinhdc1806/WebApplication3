@@ -1,0 +1,25 @@
+﻿
+.hh-box {
+    display:inline-block;/*display = block tu troi len*/
+    position:relative;
+    height:300px;
+    width:220px;
+    border:1px solid red;
+}
+    .hh-box:hover {
+        border-radius:10px;
+        box-shadow: 0 0 10px red;
+       
+    }
+.hh_image {
+    margin-top:10px;
+    height:90%;
+    width:100%;
+    text-align:center;
+}
+.hh-icon {
+    position:absolute;
+    top:0px;
+    right:0px;
+    width:50px;
+}
