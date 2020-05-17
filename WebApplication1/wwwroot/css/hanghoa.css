@@ -1,6 +1,9 @@
 ﻿
 .hh-box {
     display:inline-block;/*display = block tu troi len*/
+    margin-bottom:2px;
+    margin-right:2px;
+    margin-left:2px;
     position:relative;
     height:300px;
     width:220px;
